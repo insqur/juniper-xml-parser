@@ -1,0 +1,8 @@
+setup.py
+juniperXmlParser/__init__.py
+juniperXmlParser/juniperXmlParser.py
+juniperXmlParser/test.py
+juniperXmlParser.egg-info/PKG-INFO
+juniperXmlParser.egg-info/SOURCES.txt
+juniperXmlParser.egg-info/dependency_links.txt
+juniperXmlParser.egg-info/top_level.txt
